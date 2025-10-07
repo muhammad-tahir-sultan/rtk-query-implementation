@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": "5cb1",
+      "title": "Become Problem Solver",
+      "completed": false,
+      "userId": 1
+    },
+    {
+      "id": "119d",
+      "title": "Learn the Art of Problem Solving",
+      "completed": false,
+      "userId": 1
+    },
+    {
+      "id": "b427",
+      "title": "Focus on Solution Not Problem",
+      "completed": false,
+      "userId": 1
+    }
+  ]
+}
